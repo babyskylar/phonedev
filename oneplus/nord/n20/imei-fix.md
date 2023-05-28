@@ -5,21 +5,21 @@ get the file for your version and phone [here](https://github.com/babyskylar/pho
 Now the key is to erase the partitions before flashing them. erase in any order you want, but when flashing, the way it is listed must be followed.
 commands as follows:
 
-fastboot erase mdm1m9kefs1
-fastboot erase mdm1m9kefs2
-fastboot erase mdm1m9kefs3
-fastboot erase mdm1m9kefsc
-fastboot erase modem_a
-fastboot erase modem_b
-fastboot erase modemst1
-fastboot erase modemst2
-fastboot erase modemdump
-fastboot flash modem_a
-fastboot flash modem_b
-fastboot flash modemdump
-fastboot flash modemst1
-fastboot flash modemst2
-fastboot flash mdm1m9kefs1
-fastboot flash mdm1m9kefs2
-fastboot flash mdm1m9kefs3
-fastboot flash mdm1m9kefsc
+3. fastboot erase mdm1m9kefs1
+4. fastboot erase mdm1m9kefs2
+5. fastboot erase mdm1m9kefs3
+6. fastboot erase mdm1m9kefsc
+7. fastboot erase modem_a
+8. fastboot erase modem_b
+9. fastboot erase modemst1
+10. fastboot erase modemst2
+11. fastboot erase modemdump
+12. fastboot flash modem_a
+13. fastboot flash modem_b
+14. fastboot flash modemdump
+15. fastboot flash modemst1
+16. fastboot flash modemst2
+17. fastboot flash mdm1m9kefs1
+18. fastboot flash mdm1m9kefs2
+19. fastboot flash mdm1m9kefs3
+20. fastboot flash mdm1m9kefsc
