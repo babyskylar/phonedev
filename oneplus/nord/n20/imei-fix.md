@@ -1,4 +1,6 @@
 get the file for your version and phone [here](https://github.com/babyskylar/phonedev/releases/tag/modem)
+and you must use the adb-fastboot contained in this zip locater [here](https://github.com/babyskylar/phonedev/releases/tag/files-needed)
+using any other adb or fastboot will not allow it to work
 
 1. put those files into the folder where your adb.exe and fastboot.exe happen to be.
 2. get your phone into fastboot mode "adb fastboot reboot" or by holding the volume down button while rebooting
