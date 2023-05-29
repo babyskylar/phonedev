@@ -1,6 +1,6 @@
 To disable verity for the your device, you need to follow a few steps to do that
 
-WARNING: your userdata will be wiped during this process. Also make sure your phone is updated to C.12 for the GN2200 and C.12 for the CHP2459, rooted using magisk-canary, your bootloader is unlocked, and that usb debugging is enabled.
+WARNING: your userdata will be wiped during this process. Also make sure your phone is updated to C.12 for the GN2200 and C.13 for the CHP2459, rooted using magisk-canary, your bootloader is unlocked, and that usb debugging is enabled.
 
 I would highly suggest backing up your data in a way that is unencrypted so it can go back on the phone without issue. i would also recommend unhiding any pics you have until you are back with verity-disabled, or you could wait until you have RW to hide them.
 
