@@ -22,5 +22,4 @@ anything with  "" is the commands to run.
 8. (both) if done properly, it should pop up with a menu that says 'unlocking the bootloader.....' using volume keys select 'unlock the bootloader'.
 9. hit the power key, let phone do it's thing.
 
-now if you goal was to just unlock the bootloader, then setup the device as normal, but if you want root go [here](https://github.com/babyskylar/phonedev/releases/tag/GN2200_11_C.12-root)
 <br><br>**Note:**if you want to lock the bootloader use the command "fastboot flashing lock". just beware, your phone has to be bone stock in order for it to boot properly.
