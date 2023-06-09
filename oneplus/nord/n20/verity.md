@@ -20,16 +20,22 @@ type "adb devices" if it shows as device., your good, otherwise authorize it.
 <br>"fastboot getvar is-userspace" if it says yes, continue, if not, try the previous command, or check drivers.
 <br>"fastboot getvar current-slot" if it is a, flash to a, if it is b, flash to b
 the * from this point on will stand for either a or b depending on the current slot command
-<br>"fastboot flash --disable-verity --disable-verification dtbo dtbo-zeroed.img"
+<br><br>"fastboot flash --disable-verity --disable-verification dtbo dtbo.img"
+<br>"fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img"
+<br>"fastboot flash --disable-verity --disable-verification vbmeta_system vbmeta_system.img"
+<br>"fastboot flash --disable-verity --disable-verification vbmeta_vendor vbmeta_vendor.img"
+<br>"fastboot flash --disable-verity --disable-verification vendor_boot vendor_boot.img"
+<br><br>setup phone without internet and accounts
+<br><br>"fastboot flash --disable-verity --disable-verification dtbo dtbo-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta vbmeta-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta_system vbmeta_system-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta_vendor vbmeta_vendor-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vendor_boot vendor_boot-zeroed.img"
-the next 2 commands are dealers choice
+<br><br>the next 2 commands are dealers choice
 <br><br>if you want root
-<br>"fastboot flash --disable-verity --disable-verification boot boot-magisk-zeroed.img"
+<br>"fastboot flash boot boot-magisk-zeroed.img"
 <br>just verity disabled and no root
-<br>"fastboot flash --disable-verity --disable-verification boot boot-zeroed.img"
+<br>"fastboot flash boot boot-zeroed.img"
 <br><br>using the menu in the phone, go to recovery, wipe all data(factory reset).
 
 if all you are wanting is verity disabled. then setup phone as normal,
