@@ -4,4 +4,6 @@ use the files that only pertain to you device. failure to do so will result in b
 1. "adb devices" if it shows as device, you are good, otherwise allow it to be used
 2. "adb reboot fastboot"
 3. "fastboot flash --disable-verity --disable-verification super super-rw.img"
-
+4. wipe the device using devices own recovery
+5. reboot and setup as normal.
+6. do gpay fix
