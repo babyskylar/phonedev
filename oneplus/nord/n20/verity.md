@@ -32,7 +32,6 @@ the * from this point on will stand for either a or b depending on the current s
 <br>"fastboot flash boot boot-magisk-zeroed.img"
 <br>just verity disabled and no root
 <br>"fastboot flash boot boot-zeroed.img"
-<br><br>using the menu in the phone, go to recovery, wipe all data(factory reset).
 
 if all you are wanting is verity disabled. then setup phone as normal,
 if you would like to get RW, then setup phone without signing into anything.then download the files for RW
