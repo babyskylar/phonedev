@@ -15,10 +15,6 @@ Also of note. use the files that pertain to your device , or you will brick it
 with the device connected to PC, run command line in the adb_fastboot folder (does not need to be administrator).
 type "adb devices" if it shows as device., your good, otherwise authorize it.
   <br><br>"adb reboot bootloader" wait for device to reboot
-<br>"fastboot devices" if you see fastboot, you are good. If not install driver included with adb_fastboot.zip manually
-<br>"fastboot reboot fastboot" this gets you into fastbootd. wait for device to reboot
-<br>"fastboot getvar is-userspace" if it says yes, continue, if not, try the previous command, or check drivers.
-<br>"fastboot getvar current-slot" if it is a, flash to a, if it is b, flash to b
 the * from this point on will stand for either a or b depending on the current slot command
 <br><br>"fastboot flash --disable-verity --disable-verification dtbo dtbo.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta vbmeta.img"
