@@ -8,5 +8,5 @@ in order for setting the phone up you will need "[files-needed.7z](https://githu
 4. [RW](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/RW.md)
 5. [gpay fix](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/gpay.md) (you can do the gpay fix at any time for one of the tuts, if that's all you want.)
 <br><br><b>[IMEI fix](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/imei-fix.md)
- <br><br><b>[UPDTAE DEVICE](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/update.md)
+ <br><br><b>[UPDATE DEVICE (non-verity, no RW)](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/update.md)
 <br><br><b>WARNING:</b> most files are password protected. 
