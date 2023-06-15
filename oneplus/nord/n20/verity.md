@@ -21,7 +21,7 @@ the * from this point on will stand for either a or b depending on the current s
 <br>"fastboot flash --disable-verity --disable-verification vbmeta_system vbmeta_system.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta_vendor vbmeta_vendor.img"
 <br>"fastboot flash --disable-verity --disable-verification vendor_boot vendor_boot.img"
-<br><br>do a fastory reset using phones own recovery. setup phone without internet and accounts
+<br><br>do a fastory reset using phones own recovery. setup phone without internet and accounts and get back into fastboot
 <br><br>"fastboot flash --disable-verity --disable-verification dtbo dtbo-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta vbmeta-zeroed.img"
 <br>"fastboot flash --disable-verity --disable-verification vbmeta_system vbmeta_system-zeroed.img"
