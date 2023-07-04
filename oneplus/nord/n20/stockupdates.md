@@ -1,6 +1,12 @@
-Gn2200
+GN2200
 <br>[A.05 to A.08](https://android.googleapis.com/packages/ota-api/package/7c03412131629ed3f7a263643bc0f09756560236.zip)
 <br>[A.07 to A.08](https://android.googleapis.com/packages/ota-api/package/553926f53f74b69b930f33683f9f37f8f61952f7.zip)
-<br>[C.10](https://android.googleapis.com/packages/ota-api/package/551a9697737e4658bcca45515dab70c9df1b9e21.zip)
-<br>[C.10 to C.12](https://android.googleapis.com/packages/ota-api/package/551a9697737e4658bcca45515dab70c9df1b9e21.zip)
-<br>[C.12 to C.13](https://android.googleapis.com/packages/ota-api/package/a2f521e1f4f046c6d70300e79e8ff610d0b7ddbe.zip)
+<br>[A.08 to C.10](https://android.googleapis.com/packages/ota-api/package/551a9697737e4658bcca45515dab70c9df1b9e21.zip)
+<br>[C.10 to C.12](https://android.googleapis.com/packages/ota-api/package/c2f51e214094eafc5482703b80aad4225583b937.zip)
+<br>[C.10 to C.14](https://android.googleapis.com/packages/ota-api/package/dcfa6ee06760b2cf4f759081bea95f44d588cc69.zip)
+<br>[C.12 to C.14](https://android.googleapis.com/packages/ota-api/package/f3e9c65836059dee5bad108453155f7190cb73b9.zip)
+<br>[C.12 to C.13](https://android.googleapis.com/packages/ota-api/package/a0a1e2c3ec957c4767422ee72707952614f45287.zip)
+<br><br>CPH2459
+<br>[A.08 to C.10](https://android.googleapis.com/packages/ota-api/package/53dc26b45c12d65e6a356a19580dbeddce3919a6.zip)
+<br>[C.10 to C.12](https://android.googleapis.com/packages/ota-api/package/098417a42ffe600ecd57102c0a2614331d9aeda1.zip)
+<br>[C.12 to C.13](https://android.googleapis.com/packages/ota-api/package/ea592f691a73d53a36574748c9af2b7911b7894a.zip)
