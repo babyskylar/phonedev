@@ -1,4 +1,4 @@
-this page contains links for the stock update zips use the oplocalupdate.apk to install it. please follow longest route for your device to make sure the other files in this repo work properly.
+this page contains links for the stock update zips use the oplocalupdate.apk located in the files needed in the releases part of this repo to install it. please follow longest route for your device to make sure the other files in this repo work properly.
 <br><br>GN2200
 <br>[A.05 to A.08 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/7c03412131629ed3f7a263643bc0f09756560236.zip)
 <br>[A.07 to A.08](https://android.googleapis.com/packages/ota-api/package/553926f53f74b69b930f33683f9f37f8f61952f7.zip)
