@@ -8,4 +8,5 @@ in order for setting the phone up you will need "[files-needed.7z](https://githu
 4. [RW](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/RW.md)
 5. [gpay fix](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/gpay.md) (you can do the gpay fix at any time for one of the tuts, if that's all you want.)
  <br><br><b>[UPDATE DEVICE (non-verity, no RW)](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/update.md)
-<br><br><b>WARNING:</b> most files are password protected.
+<br><br><b>WARNING:</b> most files are password protected. to get the passwords for the files, please visit [here](https://t.me/oneplusnordn20).
+<br>NOTE: this is to prevent @halloweenm985 from getting the files. once he is banned permanently from XDA and all other platform, the passwords will be removed
