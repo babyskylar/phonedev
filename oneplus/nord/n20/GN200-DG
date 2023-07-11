@@ -22,6 +22,6 @@ P.1 flash OFP and boot
   5c. let it do it's thing errors and all.
 6. setup phone without accounts to make sure it boots properly
 
-run "2downgrade-fix"
+P.2 run "2downgrade-fix"
 STEP 1 NOTES: this flashes all the files for A.05 so you can update to A.08 properly using stock methods.
 STEP 2 NOTES: this step puts the device on slot A for A.08 so all other updates fall where thy need to properly.
