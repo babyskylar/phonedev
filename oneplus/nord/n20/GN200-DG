@@ -1,3 +1,5 @@
+this will only work if you have fastboot available to you. if all you have is EDL, then this method will not work.
+
 to get rid of RW and get back into the stock stream, follow these steps.
 NOTE: you must also do this if you wish to get out of RW.
 WARNING: your slot must be slot A in order for the phone to boot properly
