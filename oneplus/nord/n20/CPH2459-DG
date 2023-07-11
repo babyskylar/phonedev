@@ -11,14 +11,14 @@ to use:
 P.1 flash OFP and boot
 1. get phone into fastboot mode "adb reboot bootloader"
 2. run "1runme" 
-  2a. select option 2
-  2b. select option 0
+  2a. select option 0
+  2b. select option 1
   2c. let it do it's thing errors and all.
 3. using phones menu, reboot back into bootloader
 4. get phone into fastbootd "fastboot reboot fastboot"
 5. re-run "1runme"
-  5a. select option 2
-  5b. select option 0
+  5a. select option 0
+  5b. select option 1
   5c. let it do it's thing errors and all.
 6. setup phone
   6a. if you wish for just stock, setup device as normal
