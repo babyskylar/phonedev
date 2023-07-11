@@ -5,7 +5,7 @@ NOTE: you must also do this if you wish to get out of RW.
 WARNING: your slot must be slot A in order for the phone to boot properly
 if you get reboots, or it goes into fastboot, check active slot, if slot B, switch to A.
 
-files can be found [here](oneplus/nord/n20/CPH2459-DG)
+files can be found [here](https://github.com/babyskylar/phonedev/releases/tag/N20_downgrade)
 
 this works for all updates, but must be used from C.13 onwards.
 
