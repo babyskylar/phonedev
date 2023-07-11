@@ -3,6 +3,8 @@ NOTE: you must also do this if you wish to get out of RW.
 WARNING: your slot must be slot A in order for the phone to boot properly
 if you get reboots, or it goes into fastboot, check active slot, if slot B, switch to A.
 
+this works for all updates, but must be used from C.13 onwards.
+
 to use:
 P.1 flash OFP and boot
 1. get phone into fastboot mode "adb reboot bootloader"
