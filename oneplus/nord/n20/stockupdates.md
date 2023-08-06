@@ -13,4 +13,5 @@ the order as of C.14 is A.08 (slot A),C.10(slot B),c.14 (slot A).
 <br>[A.08 to C.10 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/53dc26b45c12d65e6a356a19580dbeddce3919a6.zip)
 <br>[C.10 to C.12 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/098417a42ffe600ecd57102c0a2614331d9aeda1.zip)
 <br>[C.10 to C.14 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/efa9fadea1481bccfb474683fd79b4d530ae960f.zip)
+<br>[C.13 to C.14 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/81fbcb92f8b57921af5a2325170492d9645a6b12.zip)
 <br>[C.12 to C.14 (slot A to B)](https://android.googleapis.com/packages/ota-api/package/efa9fadea1481bccfb474683fd79b4d530ae960f.zip)
