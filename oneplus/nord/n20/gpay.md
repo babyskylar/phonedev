@@ -1,7 +1,7 @@
 wait until your device has transfered all its data from the backup you made earlier.
-do not access any apps that you want to put on the deny list.
+do not access any apps that you want to put on the deny list. files can be found [here]()
 
-1. put the MagiskHideProps, safetynet-fix, and Shamiko on the root of the internal storage
+1. put the MagiskHideProps found [here](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf), safetynet-fix found [here](https://github.com/kdrag0n/safetynet-fix), and Shamiko found [here](https://github.com/LSPosed/LSPosed.github.io/releases) on the root of the internal storage
 2. install via magisk
 3. go to the gear icon, and put gpay, authenticators, healthcare, and banking apps on the deny list.
 3a. also enable force deny
