@@ -1,5 +1,5 @@
 wait until your device has transfered all its data from the backup you made earlier.
-do not access any apps that you want to put on the deny list. files can be found [here]()
+do not access any apps that you want to put on the deny list.
 
 1. put the MagiskHideProps found [here](https://github.com/Magisk-Modules-Repo/MagiskHidePropsConf), safetynet-fix found [here](https://github.com/kdrag0n/safetynet-fix), and Shamiko found [here](https://github.com/LSPosed/LSPosed.github.io/releases) on the root of the internal storage
 2. install via magisk
