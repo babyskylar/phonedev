@@ -2,8 +2,6 @@ This is for both GN2200 and for CPH2459
 
 i will have a note next to which device it applies
 
-make sure you are on C.12 for the. you may have to update using wifi, but maake sure you enable oem unlocking before you get on your wifi network to update.
-
 For the gn2200, do not allow them to stick the sim in. it will disable the oem unlock. you may get it back by doing a factoy data reset, but no guarentees. 
 when you do the factory reset, keep sim and SD card out if the phone and just do a generic setup (no accounts).
 
