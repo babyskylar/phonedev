@@ -1,4 +1,3 @@
-You will need drivers, for most of the modes for our devices (adb, fastboot) can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/Universal_Naked_Driver_0.73.7z.001).  not needed if linux/mac.
 <br>The drivers for EDL mode can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/Qualcomm.drivers.7z). not needed if linux/mac.
 <br>A slimmed down adb/fastboot that is specific to our devices can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/adb_fastboot.zip). not needed if linux/mac.
 <br>My N20 AIO file can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/N20AIOGH.7z.001). my AIO can be used to get and do most everything as long as you follow the directions. made with windows and bash in mind
@@ -11,10 +10,10 @@ You will need drivers, for most of the modes for our devices (adb, fastboot) can
 <br>4. While still in "developer options", scroll down until you see "usb debugging". Enable it.
 <br>5. Reboot device
 <br>6. Extract out either the adb-fastboot or the N20AIO zip to it's own folder.
-<br>7. Extract the "naked drivers" to just the inside of either the N20AIO or the adb_fastboot folder and have it sit in it's own folder inside there.
+<br>7. Extract the "naked drivers" to just the inside of either the N20AIO folder and have it sit in it's own folder inside there.
 <br>8. Once device is rebooted and you are in the main screen, plug the device into you computer using the original red cord the device came with.
 <br>9. An option on the phone will pop up, choose "transfer files/android auto".
-<br>10a. For windows, if you see the device in "my computer, you are good (if not, install driver from the "naked drivers" folder make sure to select the "ADB" as the option.
+<br>10a. For windows, if you see the device in "my computer, you are good (if not, install driver from the "usb_driver/naked_drivers" folder make sure to select the "ADB" as the option.
 <br>10b. For linux/mac just install the ADB/fastboot for your respective OS. the phone should automatically recognize the device without fiddling with drivers/kexts.
 <br>11a. if using the AIO, there is a windows and bash folder respectively. bash folder is for linux/mac, and the windows folder is for windows.
 <br>11b. On windows go to either "N20AIO/windows", or the root of "adb_fastboot" where you will see "fastboot.exe", and "adb.exe".
