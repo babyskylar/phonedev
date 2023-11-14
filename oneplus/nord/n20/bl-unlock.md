@@ -25,7 +25,7 @@ Windows adb_fastboot folder:
 
 <br><br>N20AIO:
 **always choose the option for your device for best compatibility**
-1. (GN2200)watch video for unlock token and follow the directions found in this video [here](https://youtu.be/o-ochdop1Gg?si=DR8rIS-ZdKMiwO2X).
+1. (GN2200)watch video for unlock token and follow the directions found in this video [here](https://youtu.be/o-ochdop1Gg?si=DR8rIS-ZdKMiwO2X). if it hangs up on not pulling the data, close bat, install driver, and try again
 <br>1a. (GN2200) submit the information [here](http://www.oneplus.com/unlock_token?_ga=2.234988545.1689870803.1684785181-943976437.1681291978) and aslo write an email similar to the attached image to support@oneplus.com. you should get your key in about 48 business hours directly to your email![support](https://github.com/babyskylar/phonedev/assets/66063174/243eaf3e-3d01-45bf-aa5c-aca220f169d0). if they don't send it, call their tech support and give them the case number they sent to you.
 2. (both)follow the directions found in the video found [here](https://youtu.be/vUz-rS50Ho4?si=GyFSNmLIQd5IE0mj).
 3. (both) if done properly, it should pop up with a menu that says 'unlocking the bootloader.....' using volume keys select 'unlock the bootloader'.
