@@ -21,3 +21,4 @@ You will need drivers, for most of the modes for our devices (adb, fastboot) can
 <br>12a. On windows -with the device unlocked and the screen on- in the folder start a command propnt window and type in it "adb devices" without the quotation marks. you should see an option on the device to allow usb debugging. check the check box and click "enable".
 <br>**note: if command does not work, install driver manually. if windows complains about driver signature and won't install it, disable driver signature permanently using your OS's specific guide**
 <br>12b. For Linux/Mac start a terminal window, type "adb devices" without the quotation marks. If it says something about root/sudo try "sudo adb devices" without the quotation marks.
+<br><br> after the device is recognized and working on the computer, go [here](https://github.com/babyskylar/phonedev/blob/main/oneplus/nord/n20/bl-unlock.md) to unlock bootloader.
