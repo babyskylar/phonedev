@@ -2,7 +2,7 @@
 <br>A slimmed down adb/fastboot that is specific to our devices can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/adb_fastboot.zip). not needed if linux/mac.
 <br>My N20 AIO file can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/N20AIOGH.7z.001). my AIO can be used to get and do most everything as long as you follow the directions. made with windows and bash in mind
 <br>**NOTE: Use original red cord and backup all your data to another oneplus phone or to PC using a program like wondershare mobilego. all data must be unencrypted**
-<br><br>directions for setup of device/computer
+<br><br>directions for setup of device/computer:
 <br>1a. For GN2200 setup device without sim. if they(tmobile/metro) put one in, then remove it and leave it removed until instructed to do so. Factory reset device and set it up without accounts.
 <br>1b. For both go into "settings", "about phone", "version", and repeatedly click on "build number" until it says you are a developer.
 <br>2. Back out until you are at the settings main page and the go into "additional settings", then select "developer mode"
