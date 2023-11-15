@@ -9,11 +9,16 @@ i noticed with trying to use the magisk modules to enable RW was not allowing me
 as with root, and the others, any images will go into the root of the "adb_fastboot" or "images" folder. you will also need command open and directed to that folder
 use the files that only pertain to you device. failure to do so will result in bricked device
 
-to see if your phone is compatible with the RW, it needs to be on a certain slot for it to work
+to see if your phone is compatible with the RW, it needs to be on a certain slot for it to work, which is listed below
 <br>CPH2459_11_C.13 slot B
 <br>CPH2459_11_C.14 slot A
 <br>CPH2459_11_C.15 slot B
 <br>CPH2459_11_C.16 slot A
+<br><br>GN2200_11_C.12 slot B
+<br>GN2200_11_C.13 slot A
+<br>GN2200_11_C.14 slot B
+<br>GN2200_11_C.15 slot A
+<br>GN2200_11_C.16 slot B
 
 windows "adb_fastboot" folder: 
 1. "adb devices" if it shows as device, you are good, otherwise allow it to be used
