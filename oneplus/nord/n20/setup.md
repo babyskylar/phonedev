@@ -1,4 +1,5 @@
 <br>The drivers for EDL mode can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/Qualcomm.drivers.7z). not needed if linux/mac.
+the regular usb drivers can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/usb_driver.7z)
 <br>A slimmed down adb/fastboot that is specific to our devices can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/adb_fastboot.zip). not needed if linux/mac.
 <br>My N20 AIO file can be found [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/N20AIOGH.7z.001). my AIO can be used to get and do most everything as long as you follow the directions. made with windows and bash in mind
 <br>**NOTE: Use original red cord and backup all your data to another oneplus phone or to PC using a program like wondershare mobilego. all data must be unencrypted**
