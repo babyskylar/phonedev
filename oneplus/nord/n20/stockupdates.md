@@ -11,6 +11,7 @@ this page contains links for the stock update zips use the oplocalupdate.apk loc
 <br>4. [C.13 to C.14 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/d19b36461c2d2ed5f5b6fa13401c13528b69f3a5.zip)
 <br>5. [C.14 to C.15 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/c2d8c6d908e3677003db44fa78d165285cf6da10.zip)
 <br>6. [C.15 to C.16 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/e3ddad601823bc9beb786dffdfbb3bf8c503f53b.zip)
+<br>7. [C.16 to C.17 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/7634ab8a9aed1a0178647e41c00130a1d17f83a8.zip)
 <br><br>CPH2459
 <br>1. [A.08 to C.10 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/53dc26b45c12d65e6a356a19580dbeddce3919a6.zip)
 <br>2. [C.10 to C.12 (Slot B to A)](https://android.googleapis.com/packages/ota-api/package/098417a42ffe600ecd57102c0a2614331d9aeda1.zip)
