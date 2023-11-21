@@ -1,5 +1,5 @@
 this page contains links for the stock update zips use the oplocalupdate.apk located in the files needed in the releases part of this repo to install it. for referance only. you can use these to update. but follow the exact route that oneplus uses.
-The number next to the update links signify the path for install using the OPLocalUpdate_For_Android12.apk. install from [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/OPLocalUpdate_For_Android12.apk) and put update at root of device storage.
+<BR>The number next to the update links signify the path for install using the OPLocalUpdate_For_Android12.apk. install from [here](https://github.com/babyskylar/phonedev/releases/download/files-needed/OPLocalUpdate_For_Android12.apk) and put update at root of device storage.
 <br><br>GN2200
 <br>[A.05 to A.08 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/7c03412131629ed3f7a263643bc0f09756560236.zip)
 <br>[A.07 to A.08 (Slot A to B)](https://android.googleapis.com/packages/ota-api/package/553926f53f74b69b930f33683f9f37f8f61952f7.zip)
