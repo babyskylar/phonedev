@@ -10,15 +10,19 @@ as with root, and the others, any images will go into the root of the "adb_fastb
 use the files that only pertain to you device. failure to do so will result in bricked device
 
 to see if your phone is compatible with the RW, it needs to be on a certain slot for it to work, which is listed below
-<br>CPH2459_11_C.13 slot B
+
+CPH2459_11_C.13 slot B
 <br>CPH2459_11_C.14 slot A
 <br>CPH2459_11_C.15 slot B
 <br>CPH2459_11_C.16 slot A
-<br><br>GN2200_11_C.12 slot B
+<br>CPH2459_11_C.17 slot B
+
+GN2200_11_C.12 slot B
 <br>GN2200_11_C.13 slot A
 <br>GN2200_11_C.14 slot B
 <br>GN2200_11_C.15 slot A
 <br>GN2200_11_C.16 slot B
+<br>GN2200_11_C.17 slot A
 
 windows "adb_fastboot" folder: 
 1. "adb devices" if it shows as device, you are good, otherwise allow it to be used
